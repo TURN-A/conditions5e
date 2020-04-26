@@ -1,7 +1,7 @@
 {
   "name": "conditions5e",
   "title": "Conditions for D&D 5e",
-  "description": "This module alters the effects in the Token HUD for D&D 5e conditions.",
+  "description": "This module alters the effects in the Token HUD for D&D 5e conditions. Original module by trdischat. https://github.com/trdischat/conditions5e",
   "version": "0.4.5.5",
   "minimumCoreVersion": "0.4.5",
   "compatibleCoreVersion": "0.5.5",
