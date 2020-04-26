@@ -25,7 +25,7 @@ CONFIG.statusEffects = [
 
   "modules/conditions5e/icons/blinded.svg",
   "modules/conditions5e/icons/deafened.svg",
-  "modules/conditions5e/icons/diseased.svg",
+  "modules/conditions5e/icons/huntersmark.svg",
   "modules/conditions5e/icons/exhaustion5.svg"
 ];
   
@@ -35,7 +35,7 @@ CONFIG.conditionTypes = {
   "charmed": "Charmed",
   "dead": "Dead",
   "deafened": "Deafened",
-  "diseased": "Diseased",
+// "diseased": "Diseased",
   "exhaustion": "Exhaustion",
   "exhaustion1": "Exhaustion Level 1",
   "exhaustion2": "Exhaustion Level 2",
@@ -44,6 +44,7 @@ CONFIG.conditionTypes = {
   "exhaustion5": "Exhaustion Level 5",
   "frightened": "Frightened",
   "grappled": "Grappled",
+  "huntersmark": "Hunter's Mark",
   "incapacitated": "Inacapacitated",
   "invisible": "Invisible",
   "paralyzed": "Paralyzed",
