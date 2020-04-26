@@ -18,12 +18,12 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/prone.svg",
   "modules/conditions5e/icons/exhaustion3.svg",
 
+  "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/charmed.svg",
   "modules/conditions5e/icons/frightened.svg",
   "modules/conditions5e/icons/poisoned.svg",
   "modules/conditions5e/icons/exhaustion4.svg",
 
-  "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/huntersmark.svg",
   "modules/conditions5e/icons/blinded.svg",
   "modules/conditions5e/icons/deafened.svg",
