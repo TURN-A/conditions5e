@@ -6,33 +6,35 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/dead.svg",
   "modules/conditions5e/icons/unconscious.svg",
   "modules/conditions5e/icons/stunned.svg",
-  "modules/conditions5e/icons/exhaustion1.svg",
-
   "modules/conditions5e/icons/incapacitated.svg",
+  
   "modules/conditions5e/icons/paralyzed.svg",
-  "modules/conditions5e/icons/petrified.svg",
-  "modules/conditions5e/icons/exhaustion2.svg",
-
+  "modules/conditions5e/icons/bane.svg",
   "modules/conditions5e/icons/grappled.svg",
   "modules/conditions5e/icons/restrained.svg",
   "modules/conditions5e/icons/prone.svg",
-  "modules/conditions5e/icons/exhaustion3.svg",
-
+ 
+  "modules/conditions5e/icons/petrified.svg",
   "modules/conditions5e/icons/concentration.svg",
   "modules/conditions5e/icons/charmed.svg",
   "modules/conditions5e/icons/frightened.svg",
   "modules/conditions5e/icons/poisoned.svg",
-  "modules/conditions5e/icons/exhaustion4.svg",
-
+  
   "modules/conditions5e/icons/huntersmark.svg",
   "modules/conditions5e/icons/blinded.svg",
   "modules/conditions5e/icons/deafened.svg",
   "modules/conditions5e/icons/diseased.svg",
+  
+  "modules/conditions5e/icons/exhaustion1.svg",
+  "modules/conditions5e/icons/exhaustion2.svg",
+  "modules/conditions5e/icons/exhaustion3.svg",
+  "modules/conditions5e/icons/exhaustion4.svg",
   "modules/conditions5e/icons/exhaustion5.svg"
 ];
   
 // Condition Types
 CONFIG.conditionTypes = {
+  "bane": "Bane",
   "blinded": "Blinded",
   "charmed": "Charmed",
   "concentration": "Concentration",
