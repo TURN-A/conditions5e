@@ -3,41 +3,55 @@
  * @type {Array}
  */
 CONFIG.statusEffects = [
-  "modules/conditions5e/icons/dead.svg",
-  "modules/conditions5e/icons/unconscious.svg",
-  "modules/conditions5e/icons/stunned.svg",
-  "modules/conditions5e/icons/incapacitated.svg",
-  
-  "modules/conditions5e/icons/paralyzed.svg",
-  "modules/conditions5e/icons/bane.svg",
-  "modules/conditions5e/icons/grappled.svg",
-  "modules/conditions5e/icons/restrained.svg",
-  "modules/conditions5e/icons/prone.svg",
- 
-  "modules/conditions5e/icons/petrified.svg",
   "modules/conditions5e/icons/concentration.svg",
-  "modules/conditions5e/icons/charmed.svg",
-  "modules/conditions5e/icons/frightened.svg",
-  "modules/conditions5e/icons/poisoned.svg",
+  "modules/conditions5e/icons/rage.svg",
+  "modules/conditions5e/icons/grappled.svg",
+  "modules/conditions5e/icons/incapacitated.svg",
   
   "modules/conditions5e/icons/huntersmark.svg",
   "modules/conditions5e/icons/blinded.svg",
-  "modules/conditions5e/icons/deafened.svg",
-  "modules/conditions5e/icons/diseased.svg",
-  
+  "modules/conditions5e/icons/restrained.svg",
   "modules/conditions5e/icons/exhaustion1.svg",
+  
+  "modules/conditions5e/icons/prone.svg",
+  "modules/conditions5e/icons/poisoned.svg",
+  "modules/conditions5e/icons/charmed.svg",
   "modules/conditions5e/icons/exhaustion2.svg",
+  
+  "modules/conditions5e/icons/unconscious.svg",
+  "modules/conditions5e/icons/deafened.svg",
+  "modules/conditions5e/icons/frightened.svg",
   "modules/conditions5e/icons/exhaustion3.svg",
+  
+  "modules/conditions5e/icons/stunned.svg",
+  "modules/conditions5e/icons/confused.svg",
+  "modules/conditions5e/icons/paralyzed.svg",
   "modules/conditions5e/icons/exhaustion4.svg",
-  "modules/conditions5e/icons/exhaustion5.svg"
+  
+  "modules/conditions5e/icons/sleep.svg",
+  "modules/conditions5e/icons/bless.svg",
+  "modules/conditions5e/icons/curse.svg",
+  "modules/conditions5e/icons/exhaustion5.svg",
+  
+  "modules/conditions5e/icons/petrified.svg",
+  "modules/conditions5e/icons/faeriefire.svg",
+  "modules/conditions5e/icons/hex.svg",
+  "modules/conditions5e/icons/dead.svg",
+  
+  "modules/conditions5e/icons/diseased.svg",
+  "modules/conditions5e/icons/regen.svg",
+  "modules/conditions5e/icons/bane.svg"
 ];
   
 // Condition Types
 CONFIG.conditionTypes = {
   "bane": "Bane",
+  "bless": "Bless",
   "blinded": "Blinded",
   "charmed": "Charmed",
   "concentration": "Concentration",
+  "confused": "Confused",
+  "curse": "Curse",
   "dead": "Dead",
   "deafened": "Deafened",
   "diseased": "Diseased",
@@ -47,8 +61,10 @@ CONFIG.conditionTypes = {
   "exhaustion3": "Exhaustion Level 3",
   "exhaustion4": "Exhaustion Level 4",
   "exhaustion5": "Exhaustion Level 5",
+  "faeriefire": "Faerie Fire",
   "frightened": "Frightened",
   "grappled": "Grappled",
+  "hex": "Hex",
   "huntersmark": "Hunter's Mark",
   "incapacitated": "Inacapacitated",
   "invisible": "Invisible",
@@ -56,6 +72,8 @@ CONFIG.conditionTypes = {
   "petrified": "Petrified",
   "poisoned": "Poisoned",
   "prone": "Prone",
+  "rage": "Rage",
+  "regen": "Regenerate",
   "restrained": "Restrained",
   "stunned": "Stunned",
   "unconscious": "Unconscious",
